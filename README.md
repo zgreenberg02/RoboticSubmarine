@@ -16,7 +16,8 @@ As a Mechanical Engineering Co-Lead, responsibilities included development and i
 
 <br />
 
-**Heat Dissipation Solutions:** Designed integrated thermal management systems, ensuring efficient heat transfer from internal components such as the Jetson computer and the electronic speed controllers.<br />
+### Heat Dissipation Solutions:
+Designed integrated thermal management systems, ensuring efficient heat transfer from internal components such as the Jetson computer and the electronic speed controllers.<br />
 
 | ![Frame Components](https://github.com/zgreenberg02/RoboticSubmarine/master/Images/ESCMount.jpg) |
 
