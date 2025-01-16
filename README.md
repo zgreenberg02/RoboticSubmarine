@@ -5,7 +5,8 @@ In relaunching Georgia Tech’s Submarine Team for the RoboSub 2025 competition,
 As a Mechanical Engineering Co-Lead, responsibilities included development and integration of mechanical systems, overseeing the integration of electrical components into the vehicle, and addressing interdisciplinary challenges. Key accomplishments: <br /><br />
 **Backplate and Frame Fabrication:** Produced aluminum frame components and backplate using waterjet cutting and CNC milling to create a robust and modular structure. The backplate with its motor/sensor connections was designed with waterproofing features to ensure reliability, including sealing removable components to prevent water ingress. <br />
 
-|![Frame Components](https://github.com/zgreenberg02/RoboticSubmarine/blob/master/Images/FrameComponents.jpg)|![Backplate and Wiring](https://github.com/zgreenberg02/RoboticSubmarine/blob/master/Images/BackplateAndWiring.jpg)|
+|![Frame Components](https://raw.githubusercontent.com/zgreenberg02/RoboticSubmarine/master/Images/FrameComponents.jpg)|![Backplate and Wiring](https://raw.githubusercontent.com/zgreenberg02/RoboticSubmarine/master/Images/BackplateAndWiring.jpg)|
+
 <br />
 ![Frame Components](https://github.com/zgreenberg02/RoboticSubmarine/blob/master/Images/FrameComponents.jpg)
 
