@@ -7,6 +7,7 @@ As a Mechanical Engineering Co-Lead, responsibilities included development and i
 
 |![Frame Components](https://github.com/zgreenberg02/RoboticSubmarine/blob/master/Images/FrameComponents.jpg)|![Backplate and Wiring](https://github.com/zgreenberg02/RoboticSubmarine/blob/master/Images/BackplateAndWiring.jpg)|
 <br />
+![Frame Components](https://github.com/zgreenberg02/RoboticSubmarine/blob/master/Images/FrameComponents.jpg)
 
 **Heat Dissipation Solutions:** Designed integrated thermal management systems, ensuring efficient heat transfer from internal components such as the Jetson computer and the electronic speed controllers.<br />
 **Subsystem Development:** Contributed to the design of advanced systems, including a telescopic cascading elevator lift with a gripper, self-propelling torpedoes, and external battery enclosures.<br /><br />
