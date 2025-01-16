@@ -32,7 +32,7 @@ Produced aluminum frame components and backplate using waterjet cutting and CNC 
 ### Heat Dissipation Solutions:
 Designed integrated thermal management systems, ensuring efficient heat transfer from internal components such as the Jetson computer and the electronic speed controllers.<br />
 
- ![ESC Mount](https://github.com/zgreenberg02/RoboticSubmarine/master/Images/ESCMount.jpg) 
+![ESC Mount](https://raw.githubusercontent.com/zgreenberg02/RoboticSubmarine/master/Images/ESCMount.jpg)
 
 
 ### Subsystem Development:
