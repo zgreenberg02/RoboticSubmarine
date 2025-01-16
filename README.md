@@ -26,6 +26,7 @@ Produced aluminum frame components and backplate using waterjet cutting and CNC 
   </tr>
 </table>
 <br />
+
 ### Heat Dissipation Solutions:
 Designed integrated thermal management systems, ensuring efficient heat transfer from internal components such as the Jetson computer and the electronic speed controllers.<br />
 
