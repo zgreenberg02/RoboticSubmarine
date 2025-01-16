@@ -16,7 +16,7 @@ Produced aluminum frame components and backplate using waterjet cutting and CNC 
 <table>
   <tr>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/zgreenberg02/RoboticSubmarine/master/Images/FrameComponents.jpg" alt="Frame Components" height="300">
+      <img src="https://raw.githubusercontent.com/zgreenberg02/RoboticSubmarine/master/Images/FrameComponents.jpg?cache-bust=1" alt="Frame Components" height="300">
       <br><b>Frame Components</b>
     </td>
     <td align="center">
