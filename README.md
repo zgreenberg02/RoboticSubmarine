@@ -1,5 +1,5 @@
 # Robotic Submarine
-<img src="https://raw.githubusercontent.com/zgreenberg02/RoboticSubmarine/master/Images/RoboticSubmarine.jpg" alt="Robotic Submarine" height="400">
+<img src="https://raw.githubusercontent.com/zgreenberg02/RoboticSubmarine/master/Images/RoboticSubmarine.jpg" alt="Robotic Submarine" height="300">
 <br />
 
 ## Georgia Tech RoboSub Team — Mechanical Engineering Co-Lead
