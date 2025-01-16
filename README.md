@@ -13,9 +13,19 @@ As a Mechanical Engineering Co-Lead, responsibilities included development and i
 ### Backplate and Frame Fabrication:
 Produced aluminum frame components and backplate using waterjet cutting and CNC milling to create a robust and modular structure. The backplate with its motor/sensor connections was designed with waterproofing features to ensure reliability, including sealing removable components to prevent water ingress. <br />
 
-| ![Frame Components](https://raw.githubusercontent.com/zgreenberg02/RoboticSubmarine/master/Images/FrameComponents.jpg?cache-bust=1) | ![Backplate and Wiring](https://raw.githubusercontent.com/zgreenberg02/RoboticSubmarine/master/Images/BackplateAndWiring.jpg) |
-|:------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------:|
-| **Frame Components** | **Backplate and Wiring** |
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/zgreenberg02/RoboticSubmarine/master/Images/FrameComponents.jpg" alt="Frame Components" height="200">
+      <br><b>Frame Components</b>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/zgreenberg02/RoboticSubmarine/master/Images/BackplateAndWiring.jpg" alt="Backplate and Wiring" height="200">
+      <br><b>Backplate and Wiring</b>
+    </td>
+  </tr>
+</table>
+
 
 <br /><br />
 
