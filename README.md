@@ -5,7 +5,10 @@
 ## Georgia Tech RoboSub Team — Mechanical Engineering Co-Lead
 In relaunching Georgia Tech’s Submarine Team for the RoboSub 2025 competition, a modular, 8-thruster Autonomous Underwater Vehicle (AUV) has been designed to autonomously complete complex underwater tasks. <br />
 
-![SubmarineFrame](https://raw.githubusercontent.com/zgreenberg02/RoboticSubmarine/master/Images/SubmarineFrame.jpg)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/zgreenberg02/RoboticSubmarine/master/Images/SubmarineFrame.jpg" alt="Isolated Submarine Frame" width="500">
+  <p><b>Figure 1: Isolated Submarine Frame</b></p>
+</div>
 <br /><br />
 
 As a Mechanical Engineering Co-Lead, responsibilities included development and integration of mechanical systems, overseeing the integration of electrical components into the vehicle, and addressing interdisciplinary challenges. Key accomplishments: <br /><br />
