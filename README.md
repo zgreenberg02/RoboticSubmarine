@@ -1,13 +1,15 @@
 # Robotic Submarine
-<img src="https://raw.githubusercontent.com/zgreenberg02/RoboticSubmarine/master/Images/RoboticSubmarine.jpg" alt="Robotic Submarine" height="300">
-<br />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/zgreenberg02/RoboticSubmarine/master/Images/RoboticSubmarine.jpg" alt="Robotic Submarine" height="300">
+  <p><b>Figure 1: Submarine in Testing</b></p>
+</div><br />
 
 ## Georgia Tech RoboSub Team — Mechanical Engineering Co-Lead
 In relaunching Georgia Tech’s Submarine Team for the RoboSub 2025 competition, a modular, 8-thruster Autonomous Underwater Vehicle (AUV) has been designed to autonomously complete complex underwater tasks. <br />
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/zgreenberg02/RoboticSubmarine/master/Images/SubmarineFrame.jpg" alt="Isolated Submarine Frame" width="500">
-  <p><b>Figure 1: Isolated Submarine Frame</b></p>
+  <p><b>Figure 2: Isolated Submarine Frame</b></p>
 </div>
 <br /><br />
 
